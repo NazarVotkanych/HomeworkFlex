@@ -1,0 +1,44 @@
+.target {
+    background: grey;
+    width: 1000px;
+    height: auto;
+    padding: 5px;
+    display: block;
+}
+.a {
+    background: #ff2b3c;
+    width: 1000px;
+    height: 100px;
+    justify-content: center;
+    /*margin: 5px;*/
+}
+.b {
+    background: blue;
+    width: 200px;
+    height: 200px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.c {
+    background: orange;
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+}
+.target1 {
+    display: flex;
+    justify-content: space-around;
+}
+.d {
+    background: yellow;
+    width: 1000px;
+    height: 300px;
+    align-items: flex-end;
+    margin-top: 5px;
+}
+.cc {
+    background: black;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
